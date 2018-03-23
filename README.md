@@ -1,1 +1,2 @@
-# data401_clustering
+# Clustering Visualizations
+> This repository contains a Jupyter notebook ( `.ipynb`) that demos the variation in results depending on clustering method used upon a given set of data. This demo was utilized in part of a team project which focused on the research of clustering methods. The presentation can be found [here](https://docs.google.com/presentation/d/1phVLB5eAEV_9AR1OMhGMzyQs4TrgsAoNSfQgiV-Ch7M/edit#slide=id.g35f391192_00)
